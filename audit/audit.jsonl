@@ -1,0 +1,1 @@
+{"ts": "2026-04-20T10:55:12.614058+00:00", "event": "jira_issue_created", "actor": "jira-triage", "jira_id": "SCRUM-143", "repo": "Application-repo", "remediation_id": "a5a27dfe-67ce-4545-9824-c91d62631993", "details": {"vuln_ids": ["SNYK-JAVA-COMMONSCOLLECTIONS-30078", "SNYK-JAVA-COMMONSCOLLECTIONS-472711", "SNYK-JAVA-COMMONSCOLLECTIONS-6056408"], "severity": "critical"}}
