@@ -36,3 +36,4 @@
 {"ts": "2026-04-27T12:03:56.601718+00:00", "event": "plan_agent_started", "actor": "plan-agent-v1", "jira_id": "SCRUM-165", "repo": "Application-repo", "remediation_id": "dfc95206-8b4d-4267-bac5-dac4e76ed04d", "details": {}}
 {"ts": "2026-04-27T12:05:21.264297+00:00", "event": "plan_agent_completed", "actor": "plan-agent-v1", "jira_id": "SCRUM-165", "repo": "Application-repo", "remediation_id": "dfc95206-8b4d-4267-bac5-dac4e76ed04d", "details": {"plan_version": 2, "plan_path": "plans/SCRUM-165/plan-v2.md"}}
 {"ts": "2026-04-28T09:35:58.342829+00:00", "event": "plan_agent_started", "actor": "plan-agent-v2", "jira_id": "SCRUM-165", "repo": "Application-repo", "remediation_id": "dfc95206-8b4d-4267-bac5-dac4e76ed04d", "details": {}}
+{"ts": "2026-04-28T10:41:26.580898+00:00", "event": "plan_agent_started", "actor": "plan-agent-v2", "jira_id": "SCRUM-165", "repo": "Application-repo", "remediation_id": "dfc95206-8b4d-4267-bac5-dac4e76ed04d", "details": {}}
