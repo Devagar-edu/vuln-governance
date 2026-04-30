@@ -1,0 +1,15 @@
+{
+  "vuln_id": "151e1e00-fa15-4215-bde9-31df30f63cfe",
+  "repo": "Application-repo",
+  "jira_id": "SCRUM-171",
+  "attempts": [
+    {
+      "ts": "2026-04-30T15:24:59.825212+00:00",
+      "status": "build_failed",
+      "pr_url": null,
+      "error": "ce.java:[7,6] cannot find symbol\n  symbol:   class PostConstruct\n  location: class com.demo.web.DemoService\n[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.8.1:compile (default-compile) on project vuln-demo-app: Compilation failure: Compilation failure: \n[ERROR] /tmp/tmp299wf6va/Application-repo/src/main/java/com/demo/DemoService.java:[3,24] package javax.annotation does not exist\n[ERROR] /tmp/tmp299wf6va/Application-repo/src/main/java/com/demo/DemoService.java:[7,6] cannot find symbol\n[ERROR]   symbol:   class PostConstruct\n[ERROR]   location: class com.demo.web.DemoService\n[ERROR] -> [Help 1]\n[ERROR] \n[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.\n[ERROR] Re-run Maven using the -X switch to enable full debug logging.\n[ERROR] \n[ERROR] For more information about the errors and possible solutions, please read the following articles:\n[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException\n"
+    }
+  ],
+  "status": "build_failed",
+  "updated_at": "2026-04-30T15:24:59.825223+00:00"
+}
